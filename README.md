@@ -11,7 +11,7 @@
 anime_upscale_experiment/
 ├── README.md                    ← このファイル
 ├── docs/
-│   ├── 01_experiment_plan.md    ← 実験計画書（CEO報告用）
+│   ├── 01_experiment_plan.md    ← 実験計画書
 │   ├── 02_approach_comparison.md ← 4手法の比較分析
 │   └── 03_results_template.md   ← 結果記録テンプレ
 ├── scripts/
